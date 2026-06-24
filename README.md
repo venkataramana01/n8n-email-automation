@@ -81,10 +81,9 @@ Automated Action
 ```text
 .
 ├── README.md
-├── workflow/
-│   └── workflow.json
-├── images/
-    └── workflow-diagram.png
+├── workflow.json
+├── workflow-architecture.jpg
+    
 ```
 
 ---
